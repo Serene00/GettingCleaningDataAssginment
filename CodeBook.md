@@ -65,7 +65,7 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 - tBodyGyroMean
 - tBodyGyroJerkMean
 
-## Variable List
+## Variable List in the Output File
 
 - subject
 - activity
