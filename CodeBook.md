@@ -1,4 +1,4 @@
-## Backgroud Information
+## Background Information
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 
