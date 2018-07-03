@@ -214,5 +214,7 @@ fBodyAccJerkMag.std
 fBodyGyroMag.mean
 
 fBodyGyroMag.std
+
 fBodyGyroJerkMag.mean
+
 fBodyGyroJerkMag.std
