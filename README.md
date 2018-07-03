@@ -1,7 +1,7 @@
 How the scripts work?
 
-Put the following data in your working directory and then run the "run_analysis. R" code in R Studio, 
-then an output text file will be generated in your working directory.
+Put the following data files in your working directory and then run the "run_analysis. R" code in R Studio, 
+then an output text file will be generated to your working directory.
 
 
 - 'x_test.txt': Test data.
@@ -14,6 +14,6 @@ then an output text file will be generated in your working directory.
 
 - 'y_train.txt': Activity level for the training data.
 
-- 'subject_test.txt': subject number for the test data.
+- 'subject_test.txt': Subject number for the test data.
 
-- 'subject_train.txt': subject number for the train data.
+- 'subject_train.txt': Subject number for the train data.
